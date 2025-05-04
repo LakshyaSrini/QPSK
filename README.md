@@ -89,5 +89,9 @@ plt.show()
 # Output Waveform
 ![Screenshot 2025-04-30 083218](https://github.com/user-attachments/assets/f097b31f-ea30-47c5-94cf-7da3632f069d)
 
+
+# Hardware Experiment Waveform
+![WhatsApp Image 2025-05-04 at 2 27 10 PM](https://github.com/user-attachments/assets/1d6e85fb-8ee4-4f49-a5c0-d8e07b6c33f4)
+
 # Results
 Thus The QPSK (Quadratic Phase Shift Keying) is performed using python.
